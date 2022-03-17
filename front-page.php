@@ -14,7 +14,7 @@
                   <img src="<?php echo get_theme_file_uri( 'img/calendar_today_black_24dp.svg' );?>" alt="" />
                 </div>
                 <div class="boton">
-                  <a href="https://puebloyreforma.com.ar/2021/wp-content/uploads/2021/07/calendario2021.pdf" class="animated-button victoria-two" target="_blank"
+                  <a href="https://puebloyreforma.com.ar/2021/wp-content/uploads/2022/03/calendario.pdf" class="animated-button victoria-two" target="_blank"
                     >Calendario Academico</a>
                 </div>
               </div>
